@@ -1,4 +1,5 @@
-### study-of-basic-gates
+### EXPERIMENT : study-of-basic-gates
+# DATE :
 
 **AIM:** 
 
